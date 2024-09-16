@@ -15,9 +15,6 @@ The API will return a JSON response with the recommended vehicle type.
 Tech Stack:
 
 FastAPI
-
 Scikit-learn
-
 Render for deployment
-
 GitHub Actions for CI/CD
